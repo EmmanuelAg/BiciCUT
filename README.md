@@ -2,7 +2,7 @@
 <br>
 <h3 align="left">Software implementation of a bicycle sharing system for students, serving the Tonala's University Center (Centro Universitario de Tonalá)</h3>
 
-<h4 align="left"> https://juan-tafolla.github.io/BiciCUT/ </h4>
+<h4 align="left">https://emmanuelag.github.io/BiciCUT/</h4>
 <p align="left">
   Contributors:
     <br>- Ivonne Amezola
